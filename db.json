@@ -1,0 +1,17 @@
+{
+    "channel-title": "ピンズバNEWS",
+    "link": "https://pinzuba.news",
+    "channel-description": "description",
+    "channel-pubDate": "2024-07-08T11:44:00+09:00",
+    "ttl": 5,
+    "articleID": 123,
+    "item-pubDate": "Mon, 08 Jul 2024 11:44:04 +0900",
+    "item-title": "記事のタイトル",
+    "item-description": "記事の概要または要約",
+    "author": "ピンズバNEWS編集部",
+    "mainGenre": "芸能",
+    "series": "ニュース",
+    "url": "https://pinzuba.news/articles/-/7434",
+    "og-image": "https://pinzuba.ismcdn.jp/mwimgs/d/d/1200wm/img_dd6f656c0c317f1d0a4d3a398b30d9101867042.jpg",
+    "content": "<p>記事本文</p><h2>test</h2><p>記事本文2</p><h2>test2</h2><p>記事本文3</p><h2>test3</h2><p>記事本文4</p>"
+}
